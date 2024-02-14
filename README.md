@@ -1,2 +1,2 @@
-# My-project-
+# Myproject
 This is just readme file
